@@ -3,7 +3,7 @@
 This project comes with the following scaffolding:
 - React using Typescript
 - Tailwind CSS
-- Context API
+- Context API (Authentication Context scaffolding)
 - Axios
 - MSW (Mock Service Worker)
 - React Router Dom

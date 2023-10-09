@@ -1,6 +1,7 @@
 # React Boilerplate Code
 
 This project comes with the following scaffolding:
+- React using Typescript
 - Tailwind CSS
 - Context API
 - Axios

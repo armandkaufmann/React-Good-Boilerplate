@@ -6,6 +6,7 @@ This project comes with the following scaffolding:
 - Axios
 - MSW (Mock Service Worker)
 - React Router Dom
+- Protected Screens/Routes
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

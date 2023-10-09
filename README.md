@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# React Boilerplate Code
+
+This project comes with the following scaffolding:
+- Tailwind CSS
+- Context API
+- Axios
+- MSW (Mock Service Worker)
+- React Router Dom
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

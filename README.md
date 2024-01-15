@@ -14,5 +14,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `Getting Started`
 
 1. Clone the repository or download onto your machine
-2. Run npm -i / npm -install
-3. Profit
+2. Run npm install
+4. Profit
